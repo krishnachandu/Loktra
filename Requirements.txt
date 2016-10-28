@@ -1,2 +1,7 @@
-#Requirments
-1)In WebScrpaer Program I didn't get that page numbers concept i.e the 2nd func .
+BeautifulSoup==3.2.1
+chromedriver-installer==0.0.4
+docopt==0.6.2
+pipreqs==0.4.4
+requests==2.11.1
+selenium==3.0.1
+yarg==0.1.9
