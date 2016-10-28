@@ -1,0 +1,2 @@
+#Requirments
+1)In WebScrpaer Program I didn't get that page numbers concept i.e the 2nd func .
